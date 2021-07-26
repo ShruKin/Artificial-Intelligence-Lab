@@ -1,5 +1,6 @@
 {
   "execMap": {
-    "pl": "swipl"
+    "pl": "swipl",
+    "py": "python -i"
   }
 }
